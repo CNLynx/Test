@@ -1,7 +1,7 @@
 theme: jekyll-theme-startbootstrap-agency
-title: Agency - Start Bootstrap Theme
-description: ''
-author: ''
+title: OnlineTime
+description: 'ColdNetwork Staff OnlineTime'
+author: 'BAUM_xD'
 
 sass:
   style: compressed
