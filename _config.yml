@@ -1,3 +1,4 @@
+theme: jekyll-theme-startbootstrap-agency
 title: Agency - Start Bootstrap Theme
 description: ''
 author: ''
@@ -9,4 +10,3 @@ assets_path: ''
 
 collections:
   projects:
-theme: jekyll-theme-startbootstrap-agency
